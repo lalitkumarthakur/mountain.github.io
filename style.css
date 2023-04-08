@@ -7,18 +7,22 @@
     padding: 0rem; */
 }
 
+@media (max-width: 1230px) {
+    
+  }
+  
+
 .mainn {
     position: absolute;
 }
 
-.con1 {
+.content1 {
+    min-height: 40rem;
     height: 40rem;
     width: 95.5rem;
     background-image: url(mountain1.jpg);
     background-size: cover;
     position: relative;
-
-
 }
 
 .navbar-retune {
@@ -47,9 +51,7 @@
 }
 
 .parallax {
-
     background-image: url(mountain1-mask.svg);
-
 }
 
 .headline {
